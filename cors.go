@@ -144,7 +144,7 @@ func (ch *cors) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 //  import (
 //      "net/http"
 //
-//      "github.com/gorilla/handlers"
+//      "go.smantic.dev/handlers"
 //      "github.com/gorilla/mux"
 //  )
 //

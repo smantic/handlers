@@ -1,4 +1,4 @@
-module github.com/gorilla/handlers
+module go.smantic.dev/handlers
 
 go 1.14
 
